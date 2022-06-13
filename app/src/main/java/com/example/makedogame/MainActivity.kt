@@ -18,7 +18,7 @@ var questions = mutableListOf(
     "Many people __ more than the 30 kilometre per hour speed limit in this area",
     "Jane has just applied to __ a further education course to help her acquire new skills for her job",
     "Jack __ the newspaper crossword every day and usually completes it",
-    "Jennifer __ a drawing of me that really captures my likeness "
+    "Jennifer __ a drawing of me that really captures my likeness"
 )
 // List of answers according to questions list sequence
 var answer = mutableListOf(
